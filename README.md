@@ -12,7 +12,7 @@ N/A and possibly TBD
 
 ## How to use:
 
-TBD in classgit 
+TBD in class
 
 ![a screenshot of GitLab instructions/suggestions](assets/Screenshot.jpg)
 
